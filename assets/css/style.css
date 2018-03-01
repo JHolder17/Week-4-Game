@@ -3,3 +3,25 @@ img {
     height: 50px;
 }
 
+body {
+    background-image: url('https://wallpapertag.com/wallpaper/full/4/c/1/117063-new-crystal-background-1920x1200-picture.jpg');
+}
+
+h1 {
+    color: white !important; 
+    text-align: center;
+    text-shadow: 2px 2px #FF0000;
+}
+
+small {
+    color: white !important; 
+    text-align: center;
+}
+
+.panel-heading{
+    text-align: center;
+}
+
+.panel-body{
+    text-align: center;
+}
